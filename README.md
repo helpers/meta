@@ -6,6 +6,7 @@
 * [Usage](#usage)
 * [Foo](#foo)
 * [License](#license)
+
 <!-- toc stop -->
 
 ```bash
